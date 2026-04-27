@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer.
+🌸Hi welcom a my world pink🌸 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer.
 - 🌱 I’m currently learning ...
   - C#
   - Python
@@ -12,7 +12,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
     
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🌸I love the anime , 🎮 playing videogames, 🎵 listening to music, and 📖 reading books.
+- Outside tech, 🌸I love the anime and the color pink🌸 , 🎮 playing videogames, 🎵 listening to music, and 📖 reading books.
 - 📫 Reach out to me at: <a href="ve1105032024@unab.edu.sv">ve1105032024@unab.edu.sv</a>
 
 ## My Skills Include
