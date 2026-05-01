@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-🌸Hi welcom a my world pink🌸 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer.
+🌸Hello, welcome to my pink world🌸 I am a computer systems engineering student and I am currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer.
 - 🌱 I’m currently learning ...
   - C#
   - Python
